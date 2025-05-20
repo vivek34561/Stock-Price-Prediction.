@@ -1,5 +1,4 @@
-ipykernel
-numpy 
+ipykernel 
 pandas
 scikit-learn
 yfinance
@@ -20,3 +19,7 @@ textblob
 nltk
 huggingface_hub[hf_xet]
 hf_xet
+keras
+scikit-learn 
+tensorflow
+numpy==1.24.4
